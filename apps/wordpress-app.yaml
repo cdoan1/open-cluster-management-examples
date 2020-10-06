@@ -6,7 +6,7 @@ metadata:
   namespace: wordpress-app
 spec:
   type: GitHub
-  pathname: https://github.com/kubernetes-sigs/kustomize.git
+  pathname: https://github.com/cdoan1/kustomize.git
   # secretRef:
   #   name: github-credentials
 ---
